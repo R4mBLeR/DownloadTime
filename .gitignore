@@ -1,4 +1,5 @@
 .vs
-/DownloadTime/bin
+/DownloadTime/bin/Release
 /DownloadTime/obj/publish
 /DownloadTime/obj/Release
+/DownloadTime/Properties/PublishProfiles
